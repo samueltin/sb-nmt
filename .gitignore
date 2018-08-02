@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.cache
+.pytest_cache/
+build/
+
+# Distribution / packaging
+*.eggs
+*.egg-info/
+dist/
+
+# Editor generated files
+.vscode
+.idea
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+*.tmx.gz
+
+src_corpus
